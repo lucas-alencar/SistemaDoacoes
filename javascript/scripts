@@ -1,0 +1,15 @@
+INSERT INTO produto (nome,imagem) 
+
+values ("Feijão", "https://olhonopreco.com.br/media/111-feijao-carioca-dia-1kg-md.jpg"),
+("Arroz", "https://www.olhonopreco.com.br/media/925-arroz-dia-branco-tipo-1-5kg-md.jpg"),
+("Macarrão", "https://ibassets.com.br/ib.item.image.big/b-c262102df74a41e79ba89b36904dea04.jpeg"),
+("Torta", "https://www.olhonopreco.com.br/media/925-arroz-dia-branco-tipo-1-5kg-md.jpg"),
+("Peixe", "https://ibassets.com.br/ib.item.image.big/b-c262102df74a41e79ba89b36904dea04.jpeg"),
+("Manga", "https://www.olhonopreco.com.br/media/925-arroz-dia-branco-tipo-1-5kg-md.jpg"),
+("Frango", "https://ibassets.com.br/ib.item.image.big/b-c262102df74a41e79ba89b36904dea04.jpeg"),
+("Sal", "https://www.olhonopreco.com.br/media/925-arroz-dia-branco-tipo-1-5kg-md.jpg"),
+("Açucar", "https://ibassets.com.br/ib.item.image.big/b-c262102df74a41e79ba89b36904dea04.jpeg"),
+("Laranja", "https://www.olhonopreco.com.br/media/925-arroz-dia-branco-tipo-1-5kg-md.jpg"),
+("Melão", "https://ibassets.com.br/ib.item.image.big/b-c262102df74a41e79ba89b36904dea04.jpeg")
+;
+
